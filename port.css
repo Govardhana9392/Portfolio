@@ -13,6 +13,17 @@ body {
     color: white;
     padding: 15px 20px;
 }
+.headings {
+    position: sticky;
+    top: 0px;
+    z-index: 100;
+}
+#home,
+#about,
+#career,
+#skills{
+    scroll-margin-top: 100px;
+}
 .abouts a {
     color: white;
     text-decoration: none;
